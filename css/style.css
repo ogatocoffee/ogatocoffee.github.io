@@ -1,0 +1,74 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+article {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+}
+
+main {
+    background-color: #f0f0ee;
+    border-radius: 50%;
+    border: #c7e7d0 solid 1em;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    margin: 5% auto;
+    padding: 5%;
+    flex-grow: 1;
+    aspect-ratio: 1;
+}
+
+header, main, footer {
+    flex-shrink: 0;
+}
+
+body {
+    margin: 0% auto;
+    max-width: 95%;
+    line-height: 1.6;
+    font-family: 'FONTSPRING DEMO - Catalina Typewriter Light','Latin Modern Mono Prop Light', fixed, monospace;
+    font-size: 1.6em;
+    background-color: #92c8a6;
+    color: #ce474d;
+    padding: 0 10px;
+    text-align: center;
+}
+a {
+    color: #ce474d;
+}
+h1,h2,h3 {
+    font-family: 'FONTSPRING DEMO - Catalina Typewriter Light', 'Latin Modern Mono Prop Light', fixed, monospace;
+    font-size: 2.2em;
+    line-height: 1.2;
+}
+h1 {
+    font-size: 5.4em;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+h1 > a {
+    color: #58b191;
+    text-decoration: none;
+}
+h2 {
+    font-size: 1.0em;
+    line-height: 1.6;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    margin-top: 0;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0;
+}
+footer {
+    font-size: 12px;
+}
+#opening {
+    font-weight: bold;
+}
+

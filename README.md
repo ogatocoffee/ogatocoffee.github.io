@@ -1,2 +1,2 @@
 # ogatolier.github.io
-Ogato coffee shop in Lier website 
+Ogato coffee shop in Lier website
