@@ -1,6 +1,15 @@
 html, body {
     width: 100%;
-    /* height: 100%; */
+}
+
+body {
+    margin: 0% auto;
+    line-height: 1.6;
+    font-family: 'Catalina_Typewriter_Light', monospace;
+    font-size: 1.6em;
+    background-color: #92c8a6;
+    color: #ce474d;
+    text-align: center;
 }
 
 article {
@@ -15,8 +24,8 @@ main {
     border-radius: 50%;
     border: #c7e7d0 solid 1em;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
-    margin: 5% auto;
-    padding: 5%;
+    margin: 6%;
+    padding: 12%;
     flex-grow: 1;
     aspect-ratio: 1;
 }
@@ -25,34 +34,27 @@ header, main, footer {
     flex-shrink: 0;
 }
 
-body {
-    margin: 0% auto;
-    /* max-width: 95%; */
-    line-height: 1.6;
-    font-family: 'Catalina_Typewriter_Light', 'Cutive Mono', monospace;
-    font-size: 1.6em;
-    background-color: #92c8a6;
-    color: #ce474d;
-    /* padding: 0 10px; */
-    text-align: center;
-}
 a {
     color: #ce474d;
 }
+
 h1,h2,h3 {
-    font-family: 'Catalina_Typewriter_Light', 'Cutive Mono', monospace;
+    font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 2.2em;
     line-height: 1.2;
 }
+
 h1 {
     font-size: 5.4em;
     margin-top: -0.5em;
     margin-bottom: 0.5em;
 }
+
 h1 > a {
     color: #58b191;
     text-decoration: none;
 }
+
 h2 {
     font-size: 1.0em;
     line-height: 1.6;
@@ -60,16 +62,15 @@ h2 {
     letter-spacing: 2px;
     margin-top: 0;
 }
+
 header {
     display: flex;
     justify-content: space-between;
     padding: 5% 0;
 }
+
 footer {
     font-size: 12px;
-}
-#opening {
-    font-weight: bold;
 }
 
 @media screen and (max-width: 600px) {
