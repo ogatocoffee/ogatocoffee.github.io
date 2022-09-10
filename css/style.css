@@ -104,3 +104,12 @@ footer {
     font-weight: bold;
 }
 
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 0.9em;
+        line-height: inherit;
+    }
+    h2 {
+        line-height: 1;
+    }
+}
