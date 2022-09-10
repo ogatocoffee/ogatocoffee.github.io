@@ -29,7 +29,7 @@ body {
     margin: 0% auto;
     max-width: 95%;
     line-height: 1.6;
-    font-family: 'FONTSPRING DEMO - Catalina Typewriter Light','Latin Modern Mono Prop Light', fixed, monospace;
+    font-family: 'Cutive Mono', monospace;
     font-size: 1.6em;
     background-color: #92c8a6;
     color: #ce474d;
@@ -40,7 +40,7 @@ a {
     color: #ce474d;
 }
 h1,h2,h3 {
-    font-family: 'FONTSPRING DEMO - Catalina Typewriter Light', 'Latin Modern Mono Prop Light', fixed, monospace;
+    font-family: 'Cutive Mono', monospace;
     font-size: 2.2em;
     line-height: 1.2;
 }
