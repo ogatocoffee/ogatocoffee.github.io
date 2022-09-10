@@ -1,3 +1,35 @@
+/*!
+ * Web Fonts from Fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at https://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2022 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      Kimmy Design
+ * License URL: https://www.fontspring.com/licenses/kimmy-design/webfont
+ *
+ *
+ */
+@font-face {
+    font-family: 'Catalina_Typewriter_Light';
+    src: url('../assets/fonts/Catalina_Typewriter_Light-webfont.woff2') format('woff2'),
+         url('../assets/fonts/Catalina_Typewriter_Light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 html, body {
     width: 100%;
     height: 100%;
@@ -29,7 +61,7 @@ body {
     margin: 0% auto;
     max-width: 95%;
     line-height: 1.6;
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Catalina_Typewriter_Light', 'Cutive Mono', monospace;
     font-size: 1.6em;
     background-color: #92c8a6;
     color: #ce474d;
@@ -40,7 +72,7 @@ a {
     color: #ce474d;
 }
 h1,h2,h3 {
-    font-family: 'Cutive Mono', monospace;
+    font-family: 'Catalina_Typewriter_Light', 'Cutive Mono', monospace;
     font-size: 2.2em;
     line-height: 1.2;
 }
