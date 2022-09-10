@@ -107,9 +107,13 @@ footer {
 @media screen and (max-width: 600px) {
     body {
         font-size: 0.8em;
-        line-height: inherit;
+        line-height: 1;
     }
     h2 {
-        line-height: 1;
+        line-height: 0.5;
+    }
+    main {
+        margin: 2% auto;
+        padding: 12%;
     }
 }
