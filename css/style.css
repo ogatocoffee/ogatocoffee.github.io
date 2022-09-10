@@ -41,6 +41,7 @@ a {
 h1,h2,h3 {
     font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 2.2em;
+    font-weight: normal;
     line-height: 1.2;
 }
 
