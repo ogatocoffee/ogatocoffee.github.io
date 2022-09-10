@@ -78,8 +78,8 @@ h1,h2,h3 {
 }
 h1 {
     font-size: 5.4em;
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: -0.5em;
+    margin-bottom: 0.5em;
 }
 h1 > a {
     color: #58b191;
