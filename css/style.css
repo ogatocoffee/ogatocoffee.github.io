@@ -6,7 +6,7 @@ body {
     margin: 0% auto;
     line-height: 1.6;
     font-family: 'Catalina_Typewriter_Light', monospace;
-    font-size: 1.6em;
+    font-size: 1.0rem;
     background-color: #92c8a6;
     color: #ce474d;
     text-align: center;
@@ -22,7 +22,7 @@ article {
     border: #c7e7d0 solid 1em;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     margin: 1% auto;
-    padding: 12%;
+    padding: 0;
     flex-grow: 1;
     aspect-ratio: 1;
 }
@@ -68,14 +68,14 @@ h2 {
 header {
     display: flex;
     justify-content: space-between;
-    padding: 5% 0;
+    padding: 4% 0;
 }
 
 footer {
     font-size: 12px;
     display: flex;
     justify-content: center;
-    padding: 5% 0;
+    padding: 4% 0;
 }
 
 footer > a > img {
@@ -84,19 +84,36 @@ footer > a > img {
     padding: 1rem;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 1200px) {
     body {
-        font-size: 0.8em;
+        font-size: 1.4rem;
+    }
+}
+@media screen and (max-width: 1080px) {
+    body {
+        font-size: 1.2rem;
+    }
+    article {
+        margin: 1% auto;
+    }
+}
+@media screen and (max-width: 860px) {
+    body {
+        font-size: 1.0rem;
         line-height: 1;
     }
     article {
-        margin: 2% auto;
-        padding: 12%;
+        margin: 1% auto;
     }
     footer > a > img {
         height: 2rem;
         width: 2rem;
         padding: 1rem;
+    }
+}
+@media screen and (max-width: 760px) {
+    body {
+        font-size: 0.9rem;
     }
 }
 
