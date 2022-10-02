@@ -106,7 +106,7 @@ footer > a > img {
         padding: 1rem;
     }
 }
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 600px) {
     body {
         font-size: 0.9rem;
     }
