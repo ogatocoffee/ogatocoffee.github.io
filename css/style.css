@@ -93,6 +93,11 @@ footer > a > img {
         margin: 2% auto;
         padding: 12%;
     }
+    footer > a > img {
+        height: 2rem;
+        width: 2rem;
+        padding: 1rem;
+    }
 }
 
 /*!
