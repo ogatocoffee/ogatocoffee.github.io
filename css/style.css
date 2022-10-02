@@ -6,7 +6,7 @@ body {
     margin: 0% auto;
     line-height: 1.6;
     font-family: 'Catalina_Typewriter_Light', monospace;
-    font-size: 1.0rem;
+    font-size: 1.6rem;
     background-color: #92c8a6;
     color: #ce474d;
     text-align: center;
@@ -79,16 +79,11 @@ footer {
 }
 
 footer > a > img {
-    height: 4rem;
-    width: 4rem;
+    height: 2rem;
+    width: 2rem;
     padding: 1rem;
 }
 
-@media screen and (min-width: 1200px) {
-    body {
-        font-size: 1.4rem;
-    }
-}
 @media screen and (max-width: 1080px) {
     body {
         font-size: 1.2rem;
