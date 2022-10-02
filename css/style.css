@@ -73,6 +73,14 @@ header {
 
 footer {
     font-size: 12px;
+    display: flex;
+    justify-content: center;
+    padding: 5% 0;
+}
+
+footer > a > img {
+    height: 1rem;
+    width: 1rem;
 }
 
 @media screen and (max-width: 600px) {
