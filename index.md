@@ -5,7 +5,7 @@ layout: default
 
 nu open!
 
-di,wo,vr 08-16u | za,zo 09-17u
+di,wo,vr 08-16u / za,zo 09-17u
 
 # [Ogato](/)
 
