@@ -7,7 +7,7 @@ body {
     line-height: 1.6;
     font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 1.6rem;
-    background-color: #92c8a6;
+    background-color: #b9e1ed;
     color: #ce474d;
     text-align: center;
     min-height: 100%;
@@ -19,7 +19,7 @@ body {
 article {
     background-color: #f0f0ee;
     border-radius: 50%;
-    border: #c7e7d0 solid 1em;
+    border: #d3e29d solid 1em;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
     margin: 1% auto;
     padding: 0;
