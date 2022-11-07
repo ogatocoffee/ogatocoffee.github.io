@@ -1,2 +1,2 @@
-# ogatolier.github.io
+# ogato.be
 Ogato coffee shop in Lier website
