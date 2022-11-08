@@ -12,4 +12,6 @@ di,wo,vr 08&mdash;16u / za,zo 09&mdash;17u
 ## Antwerpsestraat 133
 ## Lier
 
+<a href="/menu.pdf">menu</a>
+
 <a href="mailto:annemie@ogato.be">annemie@ogato.be</a>
