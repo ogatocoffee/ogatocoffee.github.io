@@ -3,9 +3,9 @@ title: lier
 layout: default
 ---
 
-nu open!
-
 di,wo,vr 08&mdash;16u / za,zo 09&mdash;17u
+
+* gesloten 11 nov
 
 # [Ogato](/)
 
