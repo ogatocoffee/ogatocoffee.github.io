@@ -7,7 +7,7 @@ layout: default
 
 di,wo,vr 08&mdash;16u / za,zo 09&mdash;17u
 
-# [Ogato](/)
+# Ogato
 
 ## Antwerpsestraat 133
 ## Lier
