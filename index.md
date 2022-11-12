@@ -1,5 +1,5 @@
 ---
-title: lier
+title: Lier
 layout: default
 ---
 
