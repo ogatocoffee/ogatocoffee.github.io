@@ -8,7 +8,8 @@ body {
     font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 1.6rem;
     background-color: #f0f0ee;
-    color: #ce474d;
+    color: #565656;
+    /* color: #ce474d; */
     text-align: center;
     min-height: 100%;
     display: flex;
@@ -32,10 +33,11 @@ header > div, header > nav {
 }
 
 a {
-    color: #ce474d;
+    /* color: #ce474d; */
 }
 
 h1,h2,h3 {
+    color: #ce474d;
     font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 2.2em;
     font-weight: normal;
