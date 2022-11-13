@@ -43,6 +43,7 @@ h1,h2,h3 {
 }
 
 header h1 {
+    color: #565656;
     font-size: 5.4em;
     margin-top: -0.5em;
     margin-bottom: 0.5em;
