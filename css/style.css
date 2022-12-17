@@ -7,9 +7,8 @@ body {
     line-height: 1.6;
     font-family: 'Catalina_Typewriter_Light', monospace;
     font-size: 1.6rem;
-    background-color: #f0f0ee;
+    background-color: #b9e1ed;
     color: #565656;
-    /* color: #ce474d; */
     text-align: center;
     min-height: 100%;
     display: flex;
@@ -18,7 +17,7 @@ body {
 }
 
 header {
-    background-color: #b9e1ed;
+    background-color: #f0f0ee;
     border-radius: 50%;
     border: #d3e29d solid 1em;
     box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
