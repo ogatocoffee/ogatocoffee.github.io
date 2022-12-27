@@ -7,7 +7,7 @@ layout: default
 
 ## Openingsuren
 
-| Ma | gesloten
+| Ma | gesloten |
 | Di | 09:00 &mdash; 17:00 |
 | Wo | 09:00 &mdash; 17:00 |
 | Do | gesloten |
