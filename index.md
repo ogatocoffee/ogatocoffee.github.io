@@ -8,13 +8,11 @@ layout: default
 ## Openingsuren
 
 | Ma | gesloten
-| Di | 09 &mdash; 17u |
-| Wo | 09 &mdash; 17u |
+| Di | 09:00 &mdash; 17:00 |
+| Wo | 09:00 &mdash; 17:00 |
 | Do | gesloten |
-| Vr | 09 &mdash; 17u |
-| Za | 09 &mdash; 17u |
-| Zo | 09 &mdash; 17u |
+| Vr | 09:00 &mdash; 17:00 |
+| Za | 09:00 &mdash; 17:00 |
+| Zo | 09:00 &mdash; 17:00 |
 
 ## [MENU](/menu.pdf)
-
-{% include instagram.html id="CmjNJhsLxXw" %}
