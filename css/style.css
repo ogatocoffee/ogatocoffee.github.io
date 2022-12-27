@@ -78,6 +78,14 @@ header > nav > a > img {
     padding: 1rem;
 }
 
+main table {
+    margin: auto;
+}
+
+main table td {
+    padding: 0 0.5rem;
+}
+
 @media screen and (max-width: 1079px) {
     body {
         font-size: 1.2rem;
