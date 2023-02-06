@@ -5,7 +5,7 @@ layout: default
 
 ## Openingsuren
 
-#### Op dinsdag 7 feb sluiten wij om 14:00
+#### Op dinsdag 7 feb, sluiten wij om 14:00
 
 | Ma | gesloten |
 | Di | 09:00 &mdash; 17:00 |
