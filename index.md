@@ -5,6 +5,8 @@ layout: default
 
 ## Openingsuren
 
+#### Wij zijn gesloten van woensdag 1 maart t/m zaterdag 4 maart
+
 | Ma | gesloten |
 | Di* | 09:00 &mdash; 17:00 |
 | Wo | 09:00 &mdash; 17:00 |
