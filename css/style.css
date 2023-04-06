@@ -110,7 +110,7 @@ main table td {
 }
 @media screen and (max-width: 600px) {
     body {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
 }
 
