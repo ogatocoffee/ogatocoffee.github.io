@@ -15,7 +15,7 @@ layout: default
 
 ## Menu
 
-[Nederlands](/menu/Menu_20221230.pdf) | [English](/menu/Menu_20221230_en.pdf)
+[Nederlands](/menu/Menu2_20230516.pdf)
 
 ## Contact
 
