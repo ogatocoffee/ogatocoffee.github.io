@@ -13,9 +13,11 @@ layout: default
 | Za | 09:00 &mdash; 17:00 |
 | Zo | 09:00 &mdash; 17:00 |
 
+### Wij zijn op vakantie van 2 juli tem 23 juli / We are on holiday from 2nd July until 23rd July
+
 ## Menu
 
-[Nederlands](/menu/Menu2_20230516.pdf) | [English](/menu/Menu2_20230516_en.pdf)
+[Nederlands](/menu/Menu2_20230618.pdf) | [English](/menu/Menu2_20230516_en.pdf)
 
 ## Contact
 
