@@ -5,6 +5,10 @@ layout: default
 
 ## Openingsuren
 
+#### Wij zijn op vakantie van 2 juli tem 23 juli
+
+#### We are on holiday from 2nd July until 23rd July
+
 | Ma | gesloten |
 | Di | 09:00 &mdash; 17:00 |
 | Wo | 09:00 &mdash; 17:00 |
@@ -12,8 +16,6 @@ layout: default
 | Vr | 09:00 &mdash; 17:00 |
 | Za | 09:00 &mdash; 17:00 |
 | Zo | 09:00 &mdash; 17:00 |
-
-### Wij zijn op vakantie van 2 juli tem 23 juli / We are on holiday from 2nd July until 23rd July
 
 ## Menu
 
