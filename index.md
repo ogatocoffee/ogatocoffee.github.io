@@ -19,7 +19,7 @@ layout: default
 
 ## Menu
 
-[Nederlands](/menu/Menu2_20230618.pdf) | [English](/menu/Menu2_20230516_en.pdf)
+[Nederlands](/menu/Menu2_20230618.pdf) | [English](/menu/Menu2_20230618_en.pdf)
 
 ## Contact
 
