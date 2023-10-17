@@ -5,7 +5,7 @@ layout: default
 
 ## Openingsuren
 
-Liefst klanten, wj zijn gesloten op 17-18 oktober.
+Lieve klanten, wj zijn gesloten op 17-18 oktober.
 
 | Ma | gesloten |
 | Di | 09:00 &mdash; 17:00 |
