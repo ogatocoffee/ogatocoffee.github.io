@@ -5,7 +5,7 @@ layout: default
 
 ## Openingsuren
 
-Lieve klanten, wij zijn gesloten op 17-18 oktober.
+Lieve klanten, wij zijn gesloten op 24 oktober.
 
 | Ma | gesloten |
 | Di | 09:00 &mdash; 17:00 |
