@@ -15,7 +15,7 @@ layout: default
 
 ## Menu
 
-[Nederlands](/menu/Menu2_20240526_v3.chrome.pdf)
+[Nederlands](/menu/Menu2_20240714.pdf) | [English](/menu/Menu2_20240714_en.pdf)
 
 ## Contact
 
