@@ -5,13 +5,15 @@ layout: default
 
 ## Openingsuren
 
-| Ma | gesloten |
+**We zijn net overgegaan van maandag gesloten naar zondag gesloten**
+
+| Ma | 09:00 &mdash; 17:00 |
 | Di | 09:00 &mdash; 17:00 |
 | Wo | 09:00 &mdash; 17:00 |
 | Do | gesloten |
 | Vr | 09:00 &mdash; 17:00 |
 | Za | 09:00 &mdash; 17:00 |
-| Zo | 09:00 &mdash; 17:00 |
+| Zo | gesloten |
 
 ## Menu
 
